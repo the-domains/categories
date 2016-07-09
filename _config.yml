@@ -1,0 +1,14 @@
+layout_spectrum: 0.34971693297848105
+typography_spectrum: 0.39428650634363294
+color:
+  brandStrength: 0.8176727746613324
+  lightness: 0.7477871342562139
+  saturation: 0.558014341397211
+  rhythmicContrast: 0.19662729115225375
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Categories
