@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Categories]]></title>
         <description><![CDATA[Categories]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/categories/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 20:45:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jul 2016 20:45:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/categories/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Baselworld 2016: A Quick Look At The Slightly Overlooked Patek Philippe 5204R]]></title>
+            <description><![CDATA[<article><h1>Baselworld 2016: A Quick Look At The Slightly Overlooked Patek Philippe 5204R</h1><p>It goes without saying that the most talked-about watch from Patek Philippe at Baselworld this year was the new 5930G World Timer, with its new combination of complications and somewhat polarizing design. However, there was another new watch this year - well, not a new watch, exactly, but a really handsome upgrade of an existing watch, and one of the most patrician watches Patek makes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e56061f7c9e687cb9e9a635743fbe8ee/noop.jpg?input=https%3A%2F%2Fhodinkee.imgix.net%2Fuploads%2Fimages%2F1460487466756-bbwcmzbfjhabe2ty-6641c194f03762d6e514fc89e0264122%2Fpatek_5204R_hero.jpg%3Fixlib%3Drails-1.1.0%26w%3D1000%26s%3D7f8f9f85e65b4982a890c61acc0cf6f4"></article>]]></description>
+            <link>https://www.hodinkee.com/articles/baselworld-2016-a-quick-look-at-the-slightly-overlooked-patek-philippe-5204r</link>
+            <guid isPermaLink="false">eb25714c-f01b-4e8a-9235-2345634e02dc</guid>
+            <pubDate>Sat, 09 Jul 2016 20:45:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Elon Musk's Space Dream Almost Killed Tesla]]></title>
             <description><![CDATA[<article><h1>Elon Musk's Space Dream Almost Killed Tesla</h1><p>SpaceX started with a plan to send mice to Mars. It got crazier from there. In late October 2001, Elon Musk went to Moscow to buy an intercontinental ballistic missile. He brought along Jim Cantrell, a kind of international aerospace supplies fixer, and Adeo Ressi, his best friend from Penn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/197338e151a39a0ad9c47ee57e9d4e20ec8988ed.jpg"></article>]]></description>
