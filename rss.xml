@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Categories]]></title>
+        <description><![CDATA[Categories]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jul 2016 20:45:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Elon Musk's Space Dream Almost Killed Tesla]]></title>
+            <description><![CDATA[<article><h1>Elon Musk's Space Dream Almost Killed Tesla</h1><p>SpaceX started with a plan to send mice to Mars. It got crazier from there. In late October 2001, Elon Musk went to Moscow to buy an intercontinental ballistic missile. He brought along Jim Cantrell, a kind of international aerospace supplies fixer, and Adeo Ressi, his best friend from Penn.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/197338e151a39a0ad9c47ee57e9d4e20ec8988ed.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/graphics/2015-elon-musk-spacex/</link>
+            <guid isPermaLink="false">c5dbce24-19c0-4c3f-80ff-b75ece98b4a0</guid>
+            <pubDate>Sat, 09 Jul 2016 20:45:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
